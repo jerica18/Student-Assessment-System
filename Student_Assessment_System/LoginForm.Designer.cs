@@ -34,6 +34,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtPassword = new System.Windows.Forms.TextBox();
             this.lblError = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.llblRegister = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // btnLogin
@@ -97,6 +99,26 @@
             this.lblError.TabIndex = 5;
             this.lblError.Text = "   ";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(286, 308);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(104, 16);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "No Account yet?";
+            // 
+            // llblRegister
+            // 
+            this.llblRegister.AutoSize = true;
+            this.llblRegister.Location = new System.Drawing.Point(396, 308);
+            this.llblRegister.Name = "llblRegister";
+            this.llblRegister.Size = new System.Drawing.Size(129, 16);
+            this.llblRegister.TabIndex = 7;
+            this.llblRegister.TabStop = true;
+            this.llblRegister.Text = "Click here to sign up.";
+            this.llblRegister.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llblRegister_LinkClicked);
+            // 
             // LoginForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -104,6 +126,8 @@
             this.BackgroundImage = global::Student_Assessment_System.Properties.Resources.mediamodifier_nCk22aqZjlM_unsplash;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(786, 450);
+            this.Controls.Add(this.llblRegister);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.lblError);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.label2);
@@ -126,6 +150,8 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtPassword;
         private System.Windows.Forms.Label lblError;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.LinkLabel llblRegister;
     }
 }
 

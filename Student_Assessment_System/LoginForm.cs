@@ -53,5 +53,13 @@ namespace Student_Assessment_System
         {
 
         }
+
+        private void llblRegister_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            RegisterForm registerForm = new RegisterForm();
+            registerForm.FormClosed += (s, args) => this.Show();
+            registerForm.Show();
+            this.Hide();
+        }
     }
 }
