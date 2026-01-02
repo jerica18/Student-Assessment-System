@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scoring & Grading", "Scoring & Grading\Scoring & Grading.csproj", "{5022DCA1-8080-4AC4-9662-6783C8291D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5022DCA1-8080-4AC4-9662-6783C8291D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5022DCA1-8080-4AC4-9662-6783C8291D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5022DCA1-8080-4AC4-9662-6783C8291D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5022DCA1-8080-4AC4-9662-6783C8291D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9166DD3B-6749-42AB-8C30-D6676AFA2FD7}
+	EndGlobalSection
+EndGlobal
