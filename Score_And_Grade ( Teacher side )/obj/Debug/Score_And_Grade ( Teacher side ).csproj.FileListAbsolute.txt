@@ -1,0 +1,43 @@
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\Score_And_Grade ( Teacher side ).exe.config
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\Score_And_Grade ( Teacher side ).exe
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\Score_And_Grade ( Teacher side ).pdb
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\Google.Protobuf.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\MySql.Data.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Buffers.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Memory.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\ZstdSharp.dll
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\Google.Protobuf.pdb
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\Google.Protobuf.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\MySql.Data.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Buffers.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Memory.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_And_Grade ( Teacher side ).csproj.AssemblyReference.cache
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_And_Grade___Teacher_side__.Form1.resources
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_And_Grade___Teacher_side__.FormTeacherDashboard.resources
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_And_Grade___Teacher_side__.Properties.Resources.resources
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_And_Grade ( Teacher side ).csproj.GenerateResource.cache
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_And_Grade ( Teacher side ).csproj.CoreCompileInputs.cache
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_An.3DD8E07A.Up2Date
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_And_Grade ( Teacher side ).exe
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_And_Grade ( Teacher side ).pdb
+C:\Users\Moriah Fuentes\source\repos\Score_And_Grade ( Teacher side )\Score_And_Grade ( Teacher side )\obj\Debug\Score_And_Grade ( Teacher side ).exe.config
